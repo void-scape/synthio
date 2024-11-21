@@ -1,0 +1,11 @@
+[package]
+name = "synthio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15.3"
+pollster = "0.4.0"
+simple_logger = "5.0.0"
+wgpu = "23.0.0"
+winit = "0.30.5"
